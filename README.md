@@ -2,11 +2,10 @@
 
 
 
-- 📱 I am frontend developer with deep knowledges in mobile
-- 👩🏻‍💻 Currently improving my knowledges in TypeScript, React, React Native
-- 💡 Passionate about good design and clean code
-- 🧼 Working on the Android version of [Make Soap](https://apps.apple.com/ge/app/make-soap/id1627081052)
-- 👯 I’m looking forward to join an interesting projects to grow as a software enginner
+- 📱 I am frontend developer with deep knowledge in mobile
+- 👩🏻‍💻 Currently improving my knowledges in frontend development JavaScript, TypeScript, React, React Native
+- 💡 Passionate about building UI and clean code
+- 👯 I’m looking forward to join an interesting project to grow as a software engineer
 - 📫 Reach me out on my [LinkedIn](https://www.linkedin.com/in/galexanrova)
 - ⚡ Fun fact: I have expirence in different industries (food engineering, tourism, local government) and lived in 4 countries (Russia, Vietnam, Italy and now Cataluna, Spain)
 
